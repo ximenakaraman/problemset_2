@@ -1,6 +1,7 @@
-#Ximena Karaman Lian 
-#202021348
-#Repo ximenakaraman
+#Ximena Karaman Lian 202021348
+#Luisa Perdomo 201818194
+
+#Repo ximenakaraman, trabajo en conjunto con luisaperdomo
 
 ##Problemset 2
 #R version 4.3.1 (2023-06-16)
